@@ -3,12 +3,12 @@
   "networks": {
       "mainnet": {
               "contracts": {
-                "_0xbitcointoken": {"name":"0xBitcoinToken", "blockchain_address":"0xb6ed7644c69416d67b522e20bc294a9a9b405b31"}
+                "_0xbitcointoken": {"name":"dadatoken", "blockchain_address":"0xaC459be5A8f2A8Abd8A0F77B124B89690789231a"}
               }
             },
       "testnet": {
               "contracts": {
-                "_0xbitcointoken": {"name":"0xBitcoinToken", "blockchain_address":"0x4fb6715cf6118746c1f08f1d739e17f2b12aaba8"}
+                "_0xbitcointoken": {"name":"dadatoken", "blockchain_address":"0x5919748792F32F8d768845171AAb56E48E8A175B"}
               }
             }
     }
